@@ -1,0 +1,14 @@
+welcomeMsg = Hallo, Herzlich willkommen beim Tabuspiel. Du bekommst ein Tabuwort mit mehreren Begrifflichkeiten. Das Tabuwort musst du mir erklären, aber du darfst bei deiner Erklärung weder das Tabuwort noch die Begrifflichkeiten benutzen. Ich muss versuchen dein Tabuwort zu erraten. Dein Tabuwort lautet:
+deinTabuwortMsg = Okay. Dein Tabuwort lautet: 
+TabuwortGenanntMsg = Stop, du hast ein Tabuwort genannt. Eine richtige Erklärung wäre: Der Begriff hat drei Farben. Möchtest du weiterspielen?
+goodbyeMsg = Danke fürs mitspielen, du hast super gespielt! Bis zum nächsten Mal.
+weiterspielenMsg = Möchtest du weiterspielen? 
+startMsg = Bist du bereit zum Spielen? Wenn ja sag Start.
+wrongMsg = Deine Erklärung war nicht richtig.
+errorMsg = Deine Erklärung wurde nicht erkannt.
+rightMsg = Deine Erklärung war richtig. Du hast das Tabuwort richtig erklärt. Super! Möchtest du nochmal spielen? 
+newroundMsg = Okay, dein nächstes Tabuwort lautet: 
+jaUsedMsg = Du möchtest also nochmal spielen.
+jaUsedMsg2 = Das Spiel geht weiter, dein nächstes Wort lautet:
+neinUsedMsg = Du möchtest also nicht mehr weiter spielen.
+neinUsedMsg2 = Danke fürs mitspielen, bis zum nächsten Mal.
